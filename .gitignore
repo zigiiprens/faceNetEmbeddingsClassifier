@@ -1,0 +1,9 @@
+# vscode settings
+.vscode
+pipelinehelper
+# input Output
+model
+data
+# pipenv config files
+Pipfile
+Pipfile.lock
